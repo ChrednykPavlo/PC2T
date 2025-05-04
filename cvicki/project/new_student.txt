@@ -1,0 +1,12 @@
+ID will be generated automatically.
+Fill-in example:
+Group (1-Telecom / 2-CyberSecurity): 2
+FirstName: John
+LastName: Pork
+BirthYear: 1992
+-----------------------
+
+Group (1-Telecom / 2-CyberSecurity): 
+FirstName: 
+LastName: 
+BirthYear: 
